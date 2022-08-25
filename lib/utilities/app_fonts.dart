@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-
 TextStyle? kFont14pt = const TextStyle(
   fontFamily: 'AvenirLTStd',
   fontSize: 14,

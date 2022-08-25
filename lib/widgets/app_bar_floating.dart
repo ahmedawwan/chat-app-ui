@@ -57,9 +57,9 @@ class _FloatingAppBarState extends State<FloatingAppBar> {
           ),
           //leading on pressed
           onPressed: () {
-            widget.leadingOnPressed != null
-                ? widget.leadingOnPressed!()
-                : Navigator.pop(context);
+            // widget.leadingOnPressed != null
+            //     ? widget.leadingOnPressed!()
+            //     : Navigator.pop(context);
           },
         ),
       ),
